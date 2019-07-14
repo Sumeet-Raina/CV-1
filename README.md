@@ -22,14 +22,6 @@ I am extremely excited to progress in my career as a Software Developer, to buil
 | <a href="https://github.com/kiahjade/acebook-steam">Acebook</a>| Makers project to build a Facebook clone, with the goal of achieving high quality, Agile, processes to work as a team. | 9 days | Swift, Xcode |
 | <a href="https://github.com/kiahjade/thermostat_challenge">Thermostat</a>| An interactive web app where users can change temperature, my personal goal in this project was to explore front end design with JavaScript and BootStrap. | 3 days | JavaScript, HTML, CSS |
 
-# Skills
-* Ruby, JavaScript, Rails, Swift, SQL/Postgres
-* HTML & CSS
-* RSpec, Jasmine, Capybara
-* Travis CI & Heroku
-* OOP, TDD & CICD
-* Agile ways of working & pair programming
-
 # Experience
 
 **Makers Academy** (Mar 2019 - Jun 2019)
