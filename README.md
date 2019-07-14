@@ -33,8 +33,8 @@ I am extremely excited to progress in my career as a Software Developer, to buil
 # Experience
 
 **Makers Academy** (Mar 2019 - Jun 2019)
-*Coding Bootcamp*
-* Ruby, JavaScript, Rails, Swift, SQL/Postgres 
+<br>*Coding Bootcamp*
+* Ruby, JavaScript, Rails, Swift, SQL/Postgres
 * HTML & CSS
 * RSpec, Jasmine, Capybara
 * Travis CI & Heroku
@@ -46,21 +46,21 @@ I am extremely excited to progress in my career as a Software Developer, to buil
 * Agile ways of working & pair programming
 
 **Bestseller UK** (Dec 2017 - Feb 2019)
-*Junior Merchandiser – Concession Model inc. Womens, Mens & Kidswear*
+<br>*Junior Merchandiser – Concession Model inc. Womens, Mens & Kidswear*
 - Fully responsible for the planning, trading and business strategy of a £12M business model across 3 divisions and numerous subgroups.
 - Managed Bestseller’s concession account leading a team of Sales reps as well as the Merchandising function to drive sales & profitability whilst reducing risk and terminal stock.
 - This included: Building and maintaining healthy business relations with our concession customer, Creating and implementing tools, teams, processes, strategies and training. Increased knowledge and skills, improved efficiency & teamwork, streamlined the business to grow, increased the standard of tools used to plan more accurately and reduce risk & waste, traded heavier meaning both increased sales and sell through.
 
 **Topman** (August 2016 – December 2017)
-*Territory Assistant Merchandiser – International Team*
+<br>*Territory Assistant Merchandiser – International Team*
 Covered Australian/Europe/Nordstrom markets, Assisting the Merchandiser with Sales & Stock management, Markdown management, Trade preparation, Market reviews and research, Management of admin assistant, Intake management, Leading and maintaining partner relationships, Driving growth potential within markets, Editing ranges at market and store level to target international customers, Influencing partner RE: market activity
 
 **Coast** (May 2016 – August 2016)
-*Senior Assistant Merchandiser – Separates*
+<br>*Senior Assistant Merchandiser – Separates*
 Assisting the Merchandiser with Sales & Stock management, Markdown management, Trade preparation, Intake management, Margin management.
 
 **F&F Clothing** (May 2012 – May 2016)
-*Global Assistant Merchandiser – Womenswear Tailoring/Womenswear Accessories*
+<br>*Global Assistant Merchandiser – Womenswear Tailoring/Womenswear Accessories*
 *Global Trainee Merchandiser – Women’s Accessories/Women’s Footwear*
 
 
